@@ -7,11 +7,11 @@ double f(const double a, const double b, const double c);
 
 int main()
 {
-	double s, t;
-	cout << "s = "; cin >> s;
-	cout << "t = "; cin >> t;
+	double s=2.0, t=1.0;
+	/*cout << "s = "; cin >> s;
+	cout << "t = "; cin >> t;*/
 
-	double v = (f(1, pow(t, 2), s) + f(t, pow(s, 2), 1)) / 1+pow(f(1, t*s, 1), 2);
+	double v = (f(1, pow(t, 2), s) + f(t, pow(s, 2), 1)) / (1 + pow(f(1, t * s, 1), 2));
 	cout << "v = " << v << endl;
 
 	return 0;
