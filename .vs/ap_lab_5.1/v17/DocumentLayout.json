@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "D:\\VS_projects\\ap_lab_5.1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7273D461-F157-4773-BBAD-9D5033A6DA9C}|..\\UnitTest1\\UnitTest1.vcxproj|D:\\VS_projects\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{452BEF89-5CDB-4CC5-95BC-5559ADDAEC65}|ap_lab_5.1.vcxproj|D:\\VS_projects\\ap_lab_5.1\\lab_5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{452BEF89-5CDB-4CC5-95BC-5559ADDAEC65}|ap_lab_5.1.vcxproj|solutionrelative:lab_5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +22,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\VS_projects\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\VS_projects\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "..\\UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T17:49:11.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "lab_5.1.cpp",
               "DocumentMoniker": "D:\\VS_projects\\ap_lab_5.1\\lab_5.1.cpp",
               "RelativeDocumentMoniker": "lab_5.1.cpp",
               "ToolTip": "D:\\VS_projects\\ap_lab_5.1\\lab_5.1.cpp",
               "RelativeToolTip": "lab_5.1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-30T19:05:00.869Z",
               "EditorCaption": ""
